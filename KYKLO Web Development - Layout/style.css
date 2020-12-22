@@ -1,0 +1,58 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.header {
+	margin-bottom: 1rem;
+	padding: 25px 39px;
+	width: 100%;
+	height: 6.5rem;
+	background-color: #4F2468;
+	color: #ffff;
+	text-align: center;
+}
+
+.redBackground {
+	background-color: red;
+}
+
+
+.header h1 {
+	font-size: 3rem;
+	font-weight: 400;
+	letter-spacing: 2px;
+}
+
+#home h1 {
+	font-size: 2.3rem;
+	font-weight: 400;
+}
+
+.homePhoto {
+	margin: auto;
+	width: 650px;
+}
+
+.brandPhotos {
+	padding: 0 0 30px 75px;
+}
+
+.brandPhotos img {
+	margin: 1rem 3rem;
+	padding: 0;
+	padding-left: 30px;
+	width: 300px;
+	height: 125px;
+}
+
+#info h2 {
+	font-weight: 400;
+}
+
+#info-right {
+	padding-left: 30px; 
+}
+
+
+
